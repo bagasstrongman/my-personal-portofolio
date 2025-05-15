@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    background-color: rgb(244, 0, 0);
+}
+
+nav ul li a {
+    display: block;
+    color: #ffffff;
+    padding: 1em 2em;
+    font-size: medium;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: end;
+    display: flex;
+    
+}
+
+nav ul li a:hover {
+    background-color: #af1c1c;
+        border-radius: 2em;
+        color: white;
+}
+
+.main-container .gambar {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+    padding: 16rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jojo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffffff;
+
+    
+}
+.joan{
+    text-align: center;
+    color: #ffffff;
+    padding: 16rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    
+
+  
+    
+}
+footer{
+    background-color: #8c2525;
+    color: #ffffff;
+    justify-items: center;
+}
+
+
+
+
+
